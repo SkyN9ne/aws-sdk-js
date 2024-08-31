@@ -30,7 +30,7 @@
     "jasmine": "^2.5.3",
     "jasmine-core": "^2.5.2",
     "json-loader": "^0.5.4",
-    "karma": "^4.1.0",
+    "karma": "^6.4.4",
     "karma-chrome-launcher": "2.2.0",
     "karma-jasmine": "^1.1.0",
     "mocha": "^3.0.0",
@@ -38,7 +38,7 @@
     "semver": "*",
     "typescript": "2.0.8",
     "uglify-js": "2.x",
-    "webpack": "^1.15.0"
+    "webpack": "^5.94.0"
   },
   "dependencies": {
     "buffer": "4.9.2",
@@ -49,7 +49,7 @@
     "sax": "1.2.1",
     "url": "0.10.3",
     "uuid": "3.3.2",
-    "xml2js": "0.4.19"
+    "xml2js": "0.5.0"
   },
   "main": "lib/aws.js",
   "browser": {
